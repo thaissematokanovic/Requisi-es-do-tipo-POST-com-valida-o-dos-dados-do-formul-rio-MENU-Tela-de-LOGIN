@@ -1,0 +1,24 @@
+{
+  "name": "requisi-es-do-tipo-post-com-valida-o-dos-dados-do-formul-rio-menu-tela-de-login",
+  "version": "1.0.0",
+  "description": "validacao de dados do lado do servidor",
+  "homepage": "https://github.com/thaissematokanovic/Requisi-es-do-tipo-POST-com-valida-o-dos-dados-do-formul-rio-MENU-Tela-de-LOGIN#readme",
+  "bugs": {
+    "url": "https://github.com/thaissematokanovic/Requisi-es-do-tipo-POST-com-valida-o-dos-dados-do-formul-rio-MENU-Tela-de-LOGIN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaissematokanovic/Requisi-es-do-tipo-POST-com-valida-o-dos-dados-do-formul-rio-MENU-Tela-de-LOGIN.git"
+  },
+  "license": "ISC",
+  "author": "Thaisse Matokanovic",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
